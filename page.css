@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font: 'poppins', sans-serif;
+    
 }
 
 .container{
@@ -13,6 +14,7 @@
     align-items: center;
     min-height: 100vh;
     padding: 25px;
+    
 }
 
 .container form{
@@ -20,6 +22,10 @@
     padding: 40px;
     background: silver;
     border-radius: 10px;
+    background-image: url(image/IMG_3125.JPG);
+    background-size: cover;
+    
+
 }
 
 form .row{
@@ -74,7 +80,7 @@ form .row{
     border-radius: 6px;
     font-size: 17px;
     color: skyblue;
-    margin-top: 5px;
+    margin-top: 33px;
     cursor: pointer;
     transition: 5s;
 }
@@ -85,7 +91,7 @@ form .row{
 
 form .btn{
     width: 100%;
-    padding: 12px;
+    padding: 120px;
     background: brown;
     border: none;
     outline: none;
