@@ -11,10 +11,24 @@ html{
 
 body
 {
-    width: 600px;
+    width: 100%;
     min-height: 100vh;
     background: linear-gradient(skyblue,brown);
 }
+
+
+
+@media  (min-width: 640px) {}
+
+@media  (min-width: 768px) {}
+
+@media  (min-width: 1024px) {}
+
+@media  (min-width: 1288px) {}
+
+@media  (min-width: 1536px) {}
+
+
 
 section{
     width: 100%;
@@ -836,4 +850,10 @@ transform: scale(1.1);
 
 .footer_main .footer_tag h2{
     color: brown;
+}
+
+@media screen and (device-aspect-ratio: 16/9) and (orientation: portrait) {
+    body{
+        width: 100px;
+    }
 }
