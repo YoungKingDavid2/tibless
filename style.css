@@ -11,7 +11,7 @@ html{
 
 body
 {
-    width: 100%;
+    width: 600px;
     min-height: 100vh;
     background: linear-gradient(skyblue,brown);
 }
