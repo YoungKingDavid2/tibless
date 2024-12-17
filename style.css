@@ -868,7 +868,7 @@ transform: scale(1.1);
     color: brown;
 }
 
-@media screen, (device-aspect-ratio: 16/9), (orientation: portrait), (min-width: 640px){
+@media screen, (device-aspect-ratio: 16/9), (orientation: portrait), (min-width: 220px){
     body
     {
        width: 100%;
