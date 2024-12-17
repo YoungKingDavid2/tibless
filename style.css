@@ -210,6 +210,13 @@ section .main_btn:hover i{
 .about .about_main .about_text h3{
     font-size: 30px;
     margin: 0 0 50px 0;
+    color: brown;
+    margin-right: 11px;
+    font-family: mv boli;
+}
+
+.about .about_main .about_text h3 span{
+    color: black;
 }
 
 .about .about_main .about_text p{
@@ -249,6 +256,7 @@ section .main_btn:hover i{
     align-items: center;
     justify-content: center;
     margin-bottom: 30px;
+    padding-top: 30px;
 }
 
 .shop h1 span{
