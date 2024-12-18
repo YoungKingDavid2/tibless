@@ -40,7 +40,7 @@ body
 
 
 
-@media screen, (device-aspect-ratio: 16/9), (orientation: portrait), (min-width: 640px){
+@media screen, (device-aspect-ratio: 16/9), (min-width: 640px){
     body
     {
        width: 100%;
