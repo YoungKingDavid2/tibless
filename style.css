@@ -27,8 +27,6 @@ body
        min-height: 100vh;
        background: linear-gradient(skyblue,brown);
        display: flex;
-       align-items: center;
-       justify-content: space-around;
        position: relative;
     }
    
@@ -53,8 +51,6 @@ body
        min-height: 100vh;
        background: linear-gradient(skyblue,brown);
        display: flex;
-       align-items: center;
-       justify-content: space-around;
        position: relative;
     }
 
